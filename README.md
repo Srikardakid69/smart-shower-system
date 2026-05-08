@@ -95,4 +95,4 @@ The purpose of this project is to create a **smart bathroom/shower monitoring sy
 ---
 
 ## Author
-**Your Name Here**
+**Konda Sai Srikar Reddy**
